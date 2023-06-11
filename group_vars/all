@@ -1,0 +1,7 @@
+remote_file: "/etc/chrony.conf"
+ntp_serveurs:
+  - 0.de.pool.ntp.org
+  - 1.de.pool.ntp.org
+  - 2.de.pool.ntp.org
+  - 3.de.pool.ntp.org
+

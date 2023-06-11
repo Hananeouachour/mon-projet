@@ -1,0 +1,8 @@
+---
+- name: playbook master
+  hosts: all
+  become: true
+
+  roles:
+    - chrony
+
